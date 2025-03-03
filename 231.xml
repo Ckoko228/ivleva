@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE category SYSTEM "123.dtd">
+<!-- Топ 5 машин 2023 года -->
+<category name="Машины 2023 года">
+    <car id="1">
+        <photo>Audi RS 7</photo>
+        <url>https://img12.img-bcg.eu/auto24/560/625/188032625.jpg</url>
+        <title>Audi RS 7 Sportback Performance V8 TFSI quattro 4.0 463kW</title>
+        <name>Audi RS 7</name>
+        <Type>passenger car</Type>
+        <year>2023</year>
+        <Engine>4.0</Engine>
+        <color>black met.</color>
+        <Fuel>hybrid (petrol / electric)</Fuel>
+        <Mileage>35000 km</Mileage>
+        <Drive>four-wheel drive</Drive>
+        <Reg_number>706HSW</Reg_number>
+        <Price>EUR 139,000</Price>
+        <Transmission>automatic</Transmission>
+        <VIN>WUAZZZF23PN904449</VIN>
+        <weight>2227 kg</weight>
+        <length>5008 mm</length>
+        <width>1951 mm</width>
+        <height>1423 mm</height>
+        <power>463 kW</power>
+        <seats>5</seats>
+        <displacement>3996 cm³</displacement>
+        <maxspeed>280 km/h</maxspeed>
+    </car>
+
+    <car id="2">
+        <photo>Lexus NX 450h+</photo>
+        <url>https://img12.img-bcg.eu/auto24/560/291/192344291.jpg</url>
+        <title>Lexus NX 450h+ Business Plus 2.5 224кВ</title>
+        <name>Lexus NX 450h+</name>
+        <Type>passenger car</Type>
+        <year>2023</year>
+        <Engine>2.5</Engine>
+        <color>black met.</color>
+        <Fuel>plug-in hybrid (petrol / electric)</Fuel>
+        <Mileage>36500 km</Mileage>
+        <Drive>four-wheel drive</Drive>
+        <Reg_number>849DJS</Reg_number>
+        <Price>EUR 61,900</Price>
+        <Transmission>automatic</Transmission>
+        <VIN>JTJCKBFZ602019257</VIN>
+        <weight>2540 kg</weight>
+        <length>4660 mm</length>
+        <width>1865 mm</width>
+        <height>1660 mm</height>
+        <power>224 kW</power>
+        <seats>5</seats>
+        <displacement>2500 cm³</displacement>
+        <maxspeed>210 km/h</maxspeed>
+    </car>
+
+    <car id="3">
+        <photo>BMW 420 i</photo>
+        <url>https://img12.img-bcg.eu/auto24/560/006/188172006.jpg</url>
+        <title>BMW 420 i M Sport 2.0 140kW</title>
+        <name>BMW 420 i</name>
+        <Type>passenger car</Type>
+        <year>2023</year>
+        <Engine>2.0</Engine>
+        <color>black met.</color>
+        <Fuel>petrol</Fuel>
+        <Mileage>15000 km</Mileage>
+        <Drive>rear-wheel drive</Drive>
+        <Reg_number>844HNM</Reg_number>
+        <Price>EUR 42,900</Price>
+        <Transmission>automatic</Transmission>
+        <VIN>WBA11AP07PCL55492</VIN>
+        <weight>2015 kg</weight>
+        <length>3856 mm</length>
+        <width>2006 mm</width>
+        <height>1673 mm</height>
+        <power>140 kW</power>
+        <seats>4</seats>
+        <displacement>1865 cm³</displacement>
+        <maxspeed>193 km/h</maxspeed>
+    </car>
+
+    <car id="4">
+        <photo>Mercedes-AMG GT 63</photo>
+        <url>https://img12.img-bcg.eu/auto24/560/830/194071830.jpg</url>
+        <title>Mercedes-AMG GT 63 S 4MATIC 4DOOR EQ F1 EDITION BITURBO 4.0 620kW</title>
+        <name>Mercedes-AMG GT 63 S</name>
+        <Type>passenger car</Type>
+        <year>2023</year>
+        <Engine>4.0</Engine>
+        <color>gray (MANUFAKTUR alpine grey solid)</color>
+        <Fuel>hybrid (petrol / electric)</Fuel>
+        <Mileage>7500 km</Mileage>
+        <Drive>four-wheel drive</Drive>
+        <Reg_number>385VLF</Reg_number>
+        <Price>EUR 210,000</Price>
+        <Transmission>automatic</Transmission>
+        <VIN>W1K7X7KB3PA061757</VIN>
+        <weight>2760 kg</weight>
+        <length>5054 mm</length>
+        <width>1953 mm</width>
+        <height>1460 mm</height>
+        <power>620 kW</power>
+        <seats>4</seats>
+        <displacement>1951 cm³</displacement>
+        <maxspeed>286 km/h</maxspeed>
+    </car>
+
+    <car id="5">
+        <photo>Land Rover Range Rover Velar</photo>
+        <url>https://img12.img-bcg.eu/auto24/560/528/193409528.jpg</url>
+        <title>Land Rover Range Rover Velar R-Dynamic SE P400 221kW</title>
+        <name>Land Rover Range Rover Velar</name>
+        <Type>passenger car</Type>
+        <year>2023</year>
+        <Engine>2.0</Engine>
+        <color>white (Valge tavavärv)</color>
+        <Fuel>hybrid (petrol / electric)</Fuel>
+        <Mileage>18350 km</Mileage>
+        <Drive>four-wheel drive</Drive>
+        <Reg_number>824JFX</Reg_number>
+        <Price>EUR 72,800</Price>
+        <Transmission>automatic</Transmission>
+        <VIN>SALYA2BY5PA359114</VIN>
+        <weight>2322 kg</weight>
+        <length>4797 mm</length>
+        <width>1930 mm</width>
+        <height>1683 mm</height>
+        <power>224 kW</power>
+        <seats>5</seats>
+        <displacement>1997 cm³</displacement>
+        <maxspeed>180 km/h</maxspeed>
+    </car>
+</category>

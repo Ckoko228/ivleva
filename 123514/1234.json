@@ -1,0 +1,29 @@
+{
+    "category": {
+        "car": {
+            "photo": "Land Rover Range Rover Velar",
+            "url": "https://img12.img-bcg.eu/auto24/560/528/193409528.jpg",
+            "title": "Land Rover Range Rover Velar R-Dynamic SE P400 221kW",
+            "name": "Land Rover Range Rover Velar",
+            "Type": "passenger car",
+            "year": "2023",
+            "Engine": "2.0",
+            "color": "white (Valge tavavärv)",
+            "Fuel": "hybrid (petrol / electric)",
+            "Mileage": "18350 km",
+            "Drive": "four-wheel drive",
+            "Reg_number": "824JFX",
+            "Price": "EUR 72,800",
+            "Transmission": "automatic",
+            "VIN": "SALYA2BY5PA359114",
+            "weight": "2322 kg",
+            "length": "4797 mm",
+            "width": "1930 mm",
+            "height": "1683 mm",
+            "power": "224 kW",
+            "seats": "5",
+            "displacement": "1997 cm³",
+            "maxspeed": "180 km/h"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+<!ELEMENT category (car+)>
+<!ATTLIST category name CDATA #REQUIRED>
+
+<!ELEMENT car (photo, url, title, name, Type, year, Engine, color, Fuel, Mileage, Drive, Reg_number, Price, Transmission, VIN, weight, length, width, height, power, seats, displacement, maxspeed)>
+<!ATTLIST car id CDATA #REQUIRED>
+
+<!ELEMENT photo (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT Type (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT Engine (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT Fuel (#PCDATA)>
+<!ELEMENT Mileage (#PCDATA)>
+<!ELEMENT Drive (#PCDATA)>
+<!ELEMENT Reg_number (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT Transmission (#PCDATA)>
+<!ELEMENT VIN (#PCDATA)>
+<!ELEMENT weight (#PCDATA)>
+<!ELEMENT length (#PCDATA)>
+<!ELEMENT width (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT power (#PCDATA)>
+<!ELEMENT seats (#PCDATA)>
+<!ELEMENT displacement (#PCDATA)>
+<!ELEMENT maxspeed (#PCDATA)>
